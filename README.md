@@ -1,2 +1,1 @@
-# hello-world
-this is a simple project 
+my  name  is  czy
